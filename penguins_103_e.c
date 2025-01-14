@@ -3,7 +3,7 @@
 #include "InputOutput.h"
 #include "Operations.h"
 #include "Check.h"
-
+#include <stdlib.h>
 int main()
 {
     int dim_x=10, dim_y=10; /*Coordinates for x and y dimensions*/
