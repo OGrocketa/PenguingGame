@@ -1,5 +1,6 @@
 # epfu22W-103-E-penguins
-
+To run the interactive game mode use: gcc penguins_103_e.c Check.c InputOutput.c Operations.c -o penguins_program
+And execute using ./penguins_program
 
 
 ## Getting started
